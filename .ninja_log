@@ -1,0 +1,69 @@
+# ninja log v5
+228	2209	7143936204337528	CMakeFiles/store_application.dir/mainwindow.cpp.obj	73176dfc4538bf49
+5	218	7143936184441324	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/timestamp	b1f672f6abf9df0f
+5	218	7143936184441324	store_application_autogen/timestamp	b1f672f6abf9df0f
+581	2106	7143923296452717	CMakeFiles/store_application.dir/store_application_autogen/mocs_compilation.cpp.obj	f56d6392d6cc5ee3
+5	218	7143936184441324	store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+5	218	7143936184441324	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+586	2124	7143923296632242	CMakeFiles/store_application.dir/main.cpp.obj	54d051175cf64e15
+2210	2380	7143936206032947	store_application.exe	8b24eae15ece8661
+10	299	7143951114561982	store_application_autogen/timestamp	b1f672f6abf9df0f
+10	299	7143951114561982	store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+10	299	7143951114561982	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/timestamp	b1f672f6abf9df0f
+10	299	7143951114561982	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+309	2603	7143951137594922	CMakeFiles/store_application.dir/mainwindow.cpp.obj	73176dfc4538bf49
+2604	2901	7143951140546058	store_application.exe	8b24eae15ece8661
+9	193	7143953656380880	store_application_autogen/timestamp	b1f672f6abf9df0f
+9	193	7143953656380880	store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+9	193	7143953656380880	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/timestamp	b1f672f6abf9df0f
+9	193	7143953656380880	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+202	2272	7143953677174630	CMakeFiles/store_application.dir/mainwindow.cpp.obj	73176dfc4538bf49
+2273	2464	7143953679069548	store_application.exe	8b24eae15ece8661
+9	207	7143953770576890	store_application_autogen/timestamp	b1f672f6abf9df0f
+9	207	7143953770576890	store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+9	207	7143953770576890	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/timestamp	b1f672f6abf9df0f
+9	207	7143953770576890	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+216	2098	7143953789476517	CMakeFiles/store_application.dir/mainwindow.cpp.obj	73176dfc4538bf49
+2098	2267	7143953791152039	store_application.exe	8b24eae15ece8661
+9	209	7143954845624238	store_application_autogen/timestamp	b1f672f6abf9df0f
+9	209	7143954845624238	store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+9	209	7143954845624238	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/timestamp	b1f672f6abf9df0f
+9	209	7143954845624238	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+218	2235	7143954865879981	CMakeFiles/store_application.dir/mainwindow.cpp.obj	73176dfc4538bf49
+2236	2410	7143954867605358	store_application.exe	8b24eae15ece8661
+9	214	7143955595267829	store_application_autogen/timestamp	b1f672f6abf9df0f
+9	214	7143955595267829	store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+9	214	7143955595267829	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/timestamp	b1f672f6abf9df0f
+9	214	7143955595267829	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+223	2257	7143955615703088	CMakeFiles/store_application.dir/mainwindow.cpp.obj	73176dfc4538bf49
+2258	2431	7143955617418204	store_application.exe	8b24eae15ece8661
+9	191	7143958102059688	store_application_autogen/timestamp	b1f672f6abf9df0f
+9	191	7143958102059688	store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+9	191	7143958102059688	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/timestamp	b1f672f6abf9df0f
+9	191	7143958102059688	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+200	2241	7143958122554809	CMakeFiles/store_application.dir/mainwindow.cpp.obj	73176dfc4538bf49
+2242	2418	7143958124310108	store_application.exe	8b24eae15ece8661
+9	204	7143959048097043	store_application_autogen/timestamp	b1f672f6abf9df0f
+9	204	7143959048097043	store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+9	204	7143959048097043	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/timestamp	b1f672f6abf9df0f
+9	204	7143959048097043	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+213	2062	7143959066708077	CMakeFiles/store_application.dir/mainwindow.cpp.obj	73176dfc4538bf49
+2062	2232	7143959068418059	store_application.exe	8b24eae15ece8661
+5	196	7143960974631403	store_application_autogen/timestamp	b1f672f6abf9df0f
+5	196	7143960974631403	store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+5	196	7143960974631403	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/timestamp	b1f672f6abf9df0f
+5	196	7143960974631403	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+206	2136	7143960994039044	CMakeFiles/store_application.dir/mainwindow.cpp.obj	73176dfc4538bf49
+2136	2307	7143960995745888	store_application.exe	8b24eae15ece8661
+5	217	7143964418337373	store_application_autogen/timestamp	b1f672f6abf9df0f
+5	217	7143964418337373	store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+5	217	7143964418337373	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/timestamp	b1f672f6abf9df0f
+5	217	7143964418337373	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+226	2355	7143964439708094	CMakeFiles/store_application.dir/mainwindow.cpp.obj	73176dfc4538bf49
+2356	2554	7143964441630884	store_application.exe	8b24eae15ece8661
+8	202	7143964641378154	store_application_autogen/timestamp	b1f672f6abf9df0f
+8	202	7143964641378154	store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+8	202	7143964641378154	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/timestamp	b1f672f6abf9df0f
+8	202	7143964641378154	C:/my_files/Qt lessons/store application/build-store_application-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/store_application_autogen/mocs_compilation.cpp	b1f672f6abf9df0f
+211	2064	7143964660035446	CMakeFiles/store_application.dir/mainwindow.cpp.obj	73176dfc4538bf49
+2064	2235	7143964661740412	store_application.exe	8b24eae15ece8661

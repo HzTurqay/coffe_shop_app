@@ -1,0 +1,31 @@
+çek nömrəsi 973
+müştəri adı fuyfufufyufuf
+müştəri kart nömrəsi1515151151
+----------alınan mehsullar---------
+məhsul------------------qiymət
+coca-cola		8
+pepsi		6
+sprite		5
+ice tea		2
+CƏM		21
+---------çek sonu---------
+
+
+
+
+
+çek nömrəsi 583
+müştəri adı fuyfufufyufuf
+müştəri kart nömrəsi1515151151
+----------alınan mehsullar---------
+məhsul------------------qiymət
+pepsi		6
+sprite		5
+ice tea		2
+CƏM		13
+---------çek sonu---------
+
+
+
+
+
